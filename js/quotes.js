@@ -3,7 +3,7 @@ const quotes = [
     quote: 'Be yourself; everyone else is already taken.',
     source: 'Oscar Wilde',
     citation: '',
-    year: '',
+    year: '1940',
   },
   {
     quote:
